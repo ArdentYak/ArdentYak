@@ -3,7 +3,8 @@
 I'm currently enrolled in the IBM Data Professionals certificate program on Coursera and like the coding aspect, so I've decided to pursue that a little more. 
 I'm looking at completing a career change into data analysis within the next year, and gaining more experience on the coding and querying side.
 
-⚡ Fun Fact: I'm a trained Goldsmith looking at a career change due to workplace injury, market over-saturation, and under-employment within the industry. 
+⚡ Random Facts: I'm a trained Goldsmith.
+
 
 <!--
 **ArdentYak/ArdentYak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
