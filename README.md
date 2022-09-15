@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm currently enrolled in the IBM Data Professionals certificate program on Coursera and like the coding aspect, so I've decided to pursue that a little more. 
-I'm looking at completing a career change into data analysis within the next year, and gaining more experience on the coding and querying side.
 
-⚡ Random Facts: I'm a trained Goldsmith.
+
+⚡ Random Facts: 
 
 
 <!--
